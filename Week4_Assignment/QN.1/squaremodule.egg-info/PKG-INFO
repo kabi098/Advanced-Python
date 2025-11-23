@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: squaremodule
+Version: 1.0
+Summary: A Python interface to a C function that squares numbers
+Dynamic: summary
